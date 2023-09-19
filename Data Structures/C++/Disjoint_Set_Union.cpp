@@ -4,10 +4,10 @@ using namespace std;
 
 // By : Mhmd_Bakr
 
-struct dsu
+struct Disjoint_Set_Union
 {
 	vector<int> parent, sz;
-	dsu(int n)
+	Disjoint_Set_Union(int n)
 	{
 	        parent = sz = vector<int>(n+1);
 	        for(int i = 0; i <= n; i++)
