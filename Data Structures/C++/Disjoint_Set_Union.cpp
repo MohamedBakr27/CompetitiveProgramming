@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// By : Mhmd_Bakr
+// By : Mohamed Bakr
 
 struct Disjoint_Set_Union
 {
