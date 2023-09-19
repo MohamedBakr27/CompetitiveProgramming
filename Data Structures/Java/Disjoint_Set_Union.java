@@ -1,5 +1,5 @@
 
-// Authoer: Mohamed Bakr
+// By : Mohamed Bakr
 
 public class Disjoint_Set_Union 
 {
