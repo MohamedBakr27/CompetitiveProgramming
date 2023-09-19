@@ -1,1 +1,1 @@
-# Competitive Programming By Mohamed Bakr (Mhmd_Bakr)
+# Competitive Programming By (Mhmd_Bakr)
