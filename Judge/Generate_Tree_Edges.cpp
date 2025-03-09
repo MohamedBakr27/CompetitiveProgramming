@@ -24,5 +24,5 @@ int32_t main()
 {
     int n = 1000000;
     vector<pair<int,int>>edges = gentree(n);
-	cout<<"Done\n";
+    cout<<"Done\n";
 }
